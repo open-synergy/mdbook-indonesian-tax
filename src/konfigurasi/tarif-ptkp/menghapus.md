@@ -1,0 +1,1 @@
+# Menghapus Tarif PTKP
