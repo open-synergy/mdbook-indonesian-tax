@@ -1,0 +1,1 @@
+# Menghapus Minimum Income
