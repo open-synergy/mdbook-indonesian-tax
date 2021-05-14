@@ -14,4 +14,4 @@ Tanggal mulai berlaku.
 
 #### <a name="field-rate">PPh Rate Modifier</a>
 
-Angka rate.
+Pengali PPh 21 untuk wajib pajak yang tidak memiliki NPWP
