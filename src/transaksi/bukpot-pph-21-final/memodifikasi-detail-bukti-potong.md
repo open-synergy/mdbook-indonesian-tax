@@ -1,6 +1,6 @@
 # Memodifikasi Detail Bukti Potong
 
-*(Instruksi kerja ini merupakan sub instruksi dari (1) [Membuat Bukti Potong PPh 23 Masuk](./membuat.md), atau (2) [Memodifikasi Bukti Potong PPh 23 Masuk](./memodifikasi.md). Instruksi kerja ini tidak bisa berdiri sendiri)*
+*(Instruksi kerja ini merupakan sub instruksi dari (1) [Membuat Bukti Potong PPh 21 Final](./membuat.md), atau (2) [Memodifikasi Bukti Potong PPh 21 Final](./memodifikasi.md). Instruksi kerja ini tidak bisa berdiri sendiri)*
 
 ## A. INPUT
 
@@ -20,9 +20,9 @@
 10. <a name="l10">[Tambah](./menambahkan-income-move-line.md)/[Hapus](./menghapus-income-move-line.md) **Income Move Line**</a>. Ulangi langkah ini sampai **Income Move Line** sesuai dengan keinginan.
 11. Klik tombol **Save** pada bagian bawah-kiri form.
 
-![](../../img/bukpot-pph-23-masuk/tombol-save-modifikasi-detail-bukpot.png)
+![](../../img/bukpot-pph-21-final/tombol-save-modifikasi-detail-bukpot.png)
 
-12. Lanjutkan [langkah ke-13 instruksi kerja Membuat Bukti Potong PPh 23 Masuk](./membuat.md#l13) atau [langkah ke-14 instruksi kerja Memodifikasi Bukti Potong PPh 23 Masuk](./memodifikasi.md#l14).
+12. Lanjutkan [langkah ke-13 instruksi kerja Membuat Bukti Potong PPh 21 Final](./membuat.md#l13) atau [langkah ke-14 instruksi kerja Memodifikasi Bukti Potong PPh 21 Final](./memodifikasi.md#l14).
 
 ## C. OUTPUT
 

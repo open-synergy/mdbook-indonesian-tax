@@ -11,7 +11,7 @@
 
 1. Klik icon tempat sampah pada bagian kanan data **Income Move Lines** yang akan dihapus.
 
-![](../../img/bukpot-pph-23-masuk/icon-hapus-item-income-move-line.png)
+![](../../img/bukpot-pph-21-final/icon-hapus-item-income-move-line.png)
 
 2. Lanjutkan [langkah ke-10 instruksi kerja Menambahkan Detail Bukti Potong](./menambahkan-detail-bukti-potong.md#l10) atau [langkah ke-10 instruksi kerja Memodifikasi Detail Bukti Potong](./memodifikasi-detail-bukti-potong.md#l10).
 
