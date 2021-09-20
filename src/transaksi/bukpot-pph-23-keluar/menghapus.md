@@ -6,6 +6,7 @@
 
 ![](../../img/bukpot-pph-23-keluar/status-draft.png)
 
+* Data *Bukti Potong PPh 23 Keluar* harus memiliki # Bukti Potong sama dengan /
 * User yang akan menghapus harus memiliki akses untuk menghapus *Bukti Potong PPh 23 Keluar*.
 
 ## B. LANGKAH KERJA
