@@ -68,6 +68,7 @@
         - [Membatalkan Bukti Potong PPh 21 Tidak Final](./transaksi/bukpot-pph-21-tidak-final/membatalkan.md)
         - [Merestart Bukti Potong PPh 21 Tidak Final](./transaksi/bukpot-pph-21-tidak-final/merestart.md)                           
     - [Form 1721 A1](./transaksi/1721a1.md)
+        - [Penjelasan Form 1721 A1](./transaksi/1721a1/penjelasan.md)
         - [Membuat Form 1721 A1](./transaksi/1721a1/membuat.md)
         - [Memodifikasi Form 1721 A1](./transaksi/1721a1/memodifikasi.md)        
         - [Menghapus Form 1721 A1](./transaksi/1721a1/menghapus.md)                
