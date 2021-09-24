@@ -75,6 +75,7 @@
         - [Mengkonfirmasi Form 1721 A1](./transaksi/1721a1/mengkonfirmasi.md)
         - [Menyetujui Form 1721 A1](./transaksi/1721a1/menyetujui.md)
         - [Menolak Form 1721 A1](./transaksi/1721a1/menolak.md)
+        - [Merestart Persetujuan Form 1721 A1](./transaksi/1721a1/merestart-persetujuan.md)
         - [Membatalkan Form 1721 A1](./transaksi/1721a1/membatalkan.md)
         - [Merestart Form 1721 A1](./transaksi/1721a1/merestart.md)                                                        
 - [Konfigurasi](./konfigurasi.md)
